@@ -6,7 +6,7 @@
 //  Copyright © 2017 JNDisrupter. All rights reserved.
 //
 
-import Foundation
+import UIKit
 import JNAvatarWithInitials
 
 /**
